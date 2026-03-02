@@ -1,7 +1,8 @@
-1. streamlit
-2. pandas 
-3. numpy
-4.tensorflow
-5.sklearn
-6.xgboost 
-7.matplotlib
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+xgboost
+tensorflow-cpu
